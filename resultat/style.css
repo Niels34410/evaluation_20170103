@@ -1,0 +1,21 @@
+h1, h2, h3{
+text-align: center;
+}
+h3{
+text-decoration: underline;
+}
+#bloc1 {
+border: solid 2px;
+background-color: silver;
+}#bloc2 {
+padding: 5px;
+margin-top: 2%;
+border: solid 2px;
+background-color: silver;}#bloc3 {
+padding: 5px;
+margin-top: 2%;
+border: solid 2px;
+background-color: silver;}h4 {
+border-bottom: solid 2px;
+background-color: white;
+}
